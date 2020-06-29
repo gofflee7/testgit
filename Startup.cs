@@ -13,6 +13,7 @@ using Microsoft.Extensions.Logging;
 
 namespace testgit
 {
+    // This class is cool
     public class Startup
     {
         public Startup(IConfiguration configuration)
