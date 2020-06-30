@@ -15,5 +15,7 @@ namespace testgit
         public string Grade {get; set; }
 
         public int Salary {get; set; }
+		
+		public int Salary2 {get; set; }
     }
 }
